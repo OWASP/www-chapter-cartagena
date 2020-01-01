@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Rafael Enrique Monterroza Barrios](mailto:rafael.barrios@owasp.org)
-* [Aisner JosÃ© Marrugo Juliao](mailto:aisner.juliao@owasp.org)
+* [Rafael Enrique Monterroza Barrios](mailto:rafael.monterroza@owasp.org)
+* [Aisner José Marrugo Juliao](mailto:aisner.marrugo@owasp.org)
