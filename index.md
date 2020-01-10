@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cartagena
-tags: cartagena-tag locais-tab meeting-tag
+tags: cartagena-tag meeting-tag
 level: 0
 
 region: Latin America
