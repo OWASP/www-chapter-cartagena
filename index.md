@@ -1,7 +1,7 @@
----
+--- 
 
 layout: col-sidebar
-title: OWASP Cartagena
+title: OWASP Cartagena Chapter
 tags: cartagena-tag meetings-tag
 level: 4
 
@@ -10,14 +10,8 @@ region: Latin America
 
 ---
 
-## Welcome
-Welcome to the Cartagena chapter homepage. The chapter leaders are Rafael Enrique Monterroza Barrios and Aisner José Marrugo Juliao. 
+## OWASP Cartagena Chapter - Colombia
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Cartagena is a city located on the northern coast of Colombia in South America, in the Caribbean Coast Region. Due to its location, it's one of the major ports of the country and it's the capital of the Department of Bolívar. In 1984, the colonial walled city and fortress were designated a UNESCO World Heritage Site.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-
+Cartagena has several universities and industries that can sponsor the OWASP Community activities. The leaders and collaborators of this chapter are committed to bringing the OWASP message to the entire community of the city and thus ensuring that the security of applications and services is part of the DNA of the industry and the academy.
