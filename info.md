@@ -1,6 +1,5 @@
 ### Chapter Information
-* Chapter Region
+* Chapter Cartagena - Colombia
 
 ### Social Links
 * [Meetup](https://www.meetup.com/es/OWASP-Cartagena-Chapter/)
-* [Social Link](#)
