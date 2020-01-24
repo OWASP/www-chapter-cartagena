@@ -5,7 +5,7 @@ title: OWASP Cartagena Chapter
 tags: cartagena-tag meetings-tag
 level: 4
 
-region: Latin America
+region: South America
 
 
 ---
