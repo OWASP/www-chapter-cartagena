@@ -7,6 +7,9 @@ level: 4
 
 region: South America
 
+meetup-group: OWASP-Cartagena-Chapter
+country: Colombia
+postal-code: 
 
 ---
 
