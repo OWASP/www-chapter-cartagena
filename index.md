@@ -1,7 +1,7 @@
 --- 
 
 layout: col-sidebar
-title: OWASP Cartagena Chapter
+title: OWASP Cartagena 
 tags: cartagena-tag meetings-tag
 level: 4
 
