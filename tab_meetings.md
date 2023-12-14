@@ -1,11 +1,11 @@
 ---
-title: Meetings
+title: Eventos
 layout:  null
 tab: true
 order: 1
 tags: meetings-tag
 ---
 
-## Meetings
+## Próximos eventos
 
 Información acerca de las próximas reuniones del capítulo.
