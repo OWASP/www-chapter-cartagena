@@ -5,7 +5,6 @@ layout:  null
 tab: true
 order: 1
 tags: meetings-tag
-meetup-group: OWASP-Cartagena-Chapter
 ---
 
 ## Próximos eventos
