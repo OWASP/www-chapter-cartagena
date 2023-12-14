@@ -1,5 +1,6 @@
 ---
-title: Eventos
+title: Meetings
+displaytext: Eventos
 layout:  null
 tab: true
 order: 1
