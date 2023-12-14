@@ -15,9 +15,9 @@ postal-code:
 
 ## OWASP Cartagena Chapter - Colombia
 
-Cartagena is a city located on the northern coast of Colombia in South America, in the Caribbean Coast Region. Due to its location, it's one of the major ports of the country and it's the capital of the Department of Bolívar. In 1984, the colonial walled city and fortress were designated a UNESCO World Heritage Site.
+Cartagena es una ciudad ubicada en la costa norte de Colombia en América del Sur. Por su ubicación, es uno de los principales puertos del país y es la capital del Departamento de Bolívar. En 1984, la ciudad colonial amurallada y sus fuertess fueron designados Patrimonio Histórico y Cultural de la Humanidad por la UNESCO.
 
-Cartagena has several universities and industries that can sponsor the OWASP Community activities. The leaders and collaborators of this chapter are committed to bringing the OWASP message to the entire community of the city and thus ensuring that the security of applications and services is part of the DNA of the industry and the academy.
+Cartagena cuenta con varias universidades e industrias que pueden patrocinar las actividades de la Comunidad OWASP. Los líderes y colaboradores de este capítulo estamos comprometidos en llevar el mensaje OWASP a toda la comunidad de la ciudad y así lograr que la seguridad de las aplicaciones y servicios sea parte del ADN de la industria y la academia.
 
 
 {% include chapter_events.html group=page.meetup-group %}
