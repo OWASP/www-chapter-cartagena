@@ -13,7 +13,7 @@ postal-code:
 
 ---
 
-## OWASP Cartagena Chapter - Colombia
+## OWASP Capítulo Cartagena - Colombia
 
 Cartagena es una ciudad ubicada en la costa norte de Colombia en América del Sur. Por su ubicación, es uno de los principales puertos del país y es la capital del Departamento de Bolívar. En 1984, la ciudad colonial amurallada y sus fuertess fueron designados Patrimonio Histórico y Cultural de la Humanidad por la UNESCO.
 
